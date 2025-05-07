@@ -1,0 +1,50 @@
+body {
+    background-color: aquamarine;
+    margin: 0;
+    padding: 0;
+
+}
+
+div {
+    background-color: rgba(224, 10, 207, 0.692);
+    border-radius: 30px;
+    padding: 20px;
+    margin: auto;
+    height: auto;
+    width: auto;
+    align-items: center;
+    align-self: auto;
+    margin-right: 60%;
+}
+
+form {
+    padding: 10px;
+    margin: 10px;
+}
+
+label {
+    padding: 10px;
+}
+
+input[type="text"], input[type="radio"], input[type="checkbox"] {
+    padding: 10px;
+}
+
+input[type="submit"], input[type="reset"] {
+    border-radius: 10px;
+    text-align: center;
+    position: inherit;
+    padding: 10px;
+    border: none;
+    margin: 10px;
+  
+}
+
+h2 {
+    color: rgb(217, 255, 5);
+}
+
+hr {
+    background-color: aqua;
+    border: 2px dashed #faf6f6;
+}
